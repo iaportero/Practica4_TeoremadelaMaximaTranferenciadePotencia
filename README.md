@@ -126,6 +126,9 @@ Ya en la pagina principal configurar acorde a su disposicion
 
 *  Al calcular el error porcentual se  llego a observar  que arroja cifras  poco significativas  para consider en la diferencia  de valores teoricos y simulados
 
+
+* En la simulacion se comprobo que la maxima transferencia de potencia se dio con la resistencia de 1k ohm un valor que se acerca a la resistencia RL , lo cual se comprueba dicho teorema
+
 9.Bibliografia
 
 Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:3-01-2021 ,Capitulo 8 , Pag: 310
