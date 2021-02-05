@@ -142,6 +142,13 @@ Link del video de la practica:
 
 https://github.com/iaportero/Practica4_TeoremadelaMaximaTranferenciadePotencia/blob/main/V%C3%ADdeo/Video%20de%20la%20practica
 
+Aportaciones:
+
+Calculo de la potencia en C++
+
+![](https://github.com/iaportero/Practica4_TeoremadelaMaximaTranferenciadePotencia/blob/main/Imagenes/WhatsApp%20Image%202021-02-04%20at%2016.43.09.jpeg)
+
+![](https://github.com/iaportero/Practica4_TeoremadelaMaximaTranferenciadePotencia/blob/main/Imagenes/WhatsApp%20Image%202021-02-04%20at%2016.46.23.jpeg)
 
 
 
