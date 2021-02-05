@@ -136,7 +136,7 @@ Clase 9 teorema de la maxima transferencia de potencia. (n.d.). Retrieved Februa
 
 Link de los calculos teoricos:
 
-https://github.com/iaportero/Practica4_TeoremadelaMaximaTranferenciadePotencia
+https://github.com/iaportero/Practica4_TeoremadelaMaximaTranferenciadePotencia/blob/main/Codigo%20Fuente/Practica%20N%C2%BA6%20Teorema%20de%20la%20M%C3%A1xima%20transferencia%20de%20potencia1.0.pdf
 
 Link del video de la practica:
 
